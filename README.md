@@ -1,6 +1,6 @@
-### Scenario: Community Garden Management System 
+## Scenario: Community Garden Management System 
 
-## Key Features: 
+### Key Features: 
 
 - Register users to manage garden plots.
 - Add, water, and harvest plants.
